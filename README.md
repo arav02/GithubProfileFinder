@@ -1,3 +1,6 @@
+# Github Profile Finder
+![Github Profile Finder Webpage Final Output](https://raw.githubusercontent.com/arav02/GithubProfileFinder/main/githubprofileFinder%20webpage%20Final%20Output.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
